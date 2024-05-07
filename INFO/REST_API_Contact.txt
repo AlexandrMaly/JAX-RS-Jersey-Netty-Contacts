@@ -58,6 +58,6 @@ http://localhost:8081/api/v1/contacts/2
 
 Видалення даних за id
 DELETE
-http://localhost:8081/api/v1/users/5
+http://localhost:8081/api/v1/contacts/5
 
 
